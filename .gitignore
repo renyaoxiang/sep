@@ -1,2 +1,5 @@
 node_modules
 package-lock.json
+wx-demo/node_modules
+wx-demo/dist
+wx-demo/.build/
